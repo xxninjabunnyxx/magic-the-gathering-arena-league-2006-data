@@ -1,0 +1,17 @@
+---
+object: set
+id: db0343a8-d158-41dc-bef4-38477d42a579
+code: pal06
+name: Arena League 2006
+uri: https://api.scryfall.com/sets/db0343a8-d158-41dc-bef4-38477d42a579
+scryfall_uri: https://scryfall.com/sets/pal06
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apal06&unique=prints
+released_at: '2006-01-01'
+set_type: promo
+card_count: 9
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: parl
+block: Arena League
+icon_svg_uri: https://svgs.scryfall.io/sets/parl.svg?1694404800
